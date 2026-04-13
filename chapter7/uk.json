@@ -1,0 +1,30 @@
+[
+    {
+        "Country": "England",
+        "Capital": "London",
+        "Area_sq_km": 130279,
+        "Major_River": "River Thames",
+        "Highest_Point": "Scafell Pike"
+    },
+    {
+        "Country": "Scotland",
+        "Capital": "Edinburgh",
+        "Area_sq_km": 77933,
+        "Major_River": "River Tay",
+        "Highest_Point": "Ben Nevis"
+    },
+    {
+        "Country": "Wales",
+        "Capital": "Cardiff",
+        "Area_sq_km": 20779,
+        "Major_River": "River Severn",
+        "Highest_Point": "Snowdon"
+    },
+    {
+        "Country": "Northern Ireland",
+        "Capital": "Belfast",
+        "Area_sq_km": 14130,
+        "Major_River": "River Bann",
+        "Highest_Point": "Slieve Donard"
+    }
+]
